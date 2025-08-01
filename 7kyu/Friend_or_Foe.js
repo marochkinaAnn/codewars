@@ -22,4 +22,3 @@ function friend(friends){
 }
 
 console.log( friend(["Ryan", "Kieran", "Jason", "Yous"]) );
-
